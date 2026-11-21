@@ -17,7 +17,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alessandralatorre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:alessglatorre@gmail.com"><img src="https://img.shields.io/badge/E--mail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=4EC9B0" alt="E-mail"></a>
   <a href="#-projetos"><img src="https://img.shields.io/badge/Ver_projetos-1E1E1E?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos"></a>
 </p>
 
