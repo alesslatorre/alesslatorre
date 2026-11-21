@@ -51,7 +51,7 @@
 ![Leaflet](https://img.shields.io/badge/Leaflet-1E1E1E?style=for-the-badge&logo=leaflet&logoColor=4EC9B0)
 ![Git](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white)
 
-**Aprendendo agora** `in progress ▓▓▓░░░░`
+**Aprendendo agora** <img src="https://img.shields.io/badge/in_progress-8B1E3F?style=flat-square" alt="in progress">
 
 ![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Pandas](https://img.shields.io/badge/Pandas-1E1E1E?style=for-the-badge&logo=pandas&logoColor=9CDCFE)
