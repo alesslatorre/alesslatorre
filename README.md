@@ -1,19 +1,18 @@
 <!-- Banner: suba o PNG do seu banner do LinkedIn neste repositório com o nome banner.png -->
 <p align="center">
-  <img src="banner.png" alt="Alessandra La Torre — tradução médica e farmacêutica e ciência de dados" width="100%">
+  <img width="3168" height="792" alt="banner" src="https://github.com/user-attachments/assets/30f676a1-e044-42b9-a7ca-4873bf2b3186" />
 </p>
 
 <h1 align="center">Alessandra La Torre</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante_de_Ciência_de_Dados-007ACC?style=for-the-badge" alt="Estudante de Ciência de Dados">
-  <img src="https://img.shields.io/badge/Tradutora_Médica_e_Farmacêutica-1E1E1E?style=for-the-badge" alt="Tradutora médica e farmacêutica">
+  <img src="https://img.shields.io/badge/Tradutora_na_área_Médica_e_Farmacêutica-1E1E1E?style=for-the-badge" alt="Tradutora na área médica e farmacêutica">
 </p>
 
 <p align="center">
   Há mais de 9 anos traduzo documentos médicos e farmacêuticos (EN/ES &lt;&gt; PT-BR).<br>
-  Hoje curso <b>Ciência de Dados para Negócios na Fatec Sebrae</b> e estou aprendendo a unir as duas coisas:<br>
-  linguagem, precisão e dados — de preferência a serviço da saúde.
+  Hoje curso <b>Ciência de Dados para Negócios</b> na Fatec Sebrae. Depois de anos traduzindo informações, agora estou aprendendo a interpretá-las com dados.<br>
 </p>
 
 <p align="center">
@@ -24,7 +23,7 @@
 
 ---
 
-## ⌨️ Onde idiomas encontram dados
+## Onde idiomas encontram dados
 
 <table>
   <tr>
@@ -37,7 +36,7 @@
 
 ---
 
-## 🧰 Ferramentas
+## Ferramentas
 
 **Já usei em projetos**
 
@@ -67,7 +66,7 @@
 
 ---
 
-## 📁 Projetos
+## Projetos
 
 <table>
   <tr>
@@ -104,8 +103,8 @@
       <a href="https://www.canva.com/design/DAHbd3j3m_Y/t02Cf7r6DZzTGqgjmc31cA/view#54](https://www.canva.com/design/DAHbd3j3m_Y/t02Cf7r6DZzTGqgjmc31cA/view#1">Ver projeto</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🩺 Em breve: dados de saúde</h3>
-      Meu próximo projeto vai juntar as minhas duas áreas: análise de dados públicos de saúde, com Python.<br><br>
+      <h3>🚧 Em breve</h3>
+Novo projeto de dados em andamento. Fique de olho!<br><br>
       <img src="https://img.shields.io/badge/in_progress-1E1E1E?style=flat-square&logo=python&logoColor=FFD43B" alt="Em andamento">
     </td>
   </tr>
