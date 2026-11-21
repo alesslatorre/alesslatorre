@@ -6,7 +6,7 @@
 <h1 align="center">Alessandra La Torre</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudante_de_Ciência_de_Dados-007ACC?style=for-the-badge" alt="Estudante de Ciência de Dados">
+  <img src="https://img.shields.io/badge/Estudante_de_Ciência_de_Dados-8B1E3F?style=for-the-badge" alt="Estudante de Ciência de Dados">
   <img src="https://img.shields.io/badge/Tradutora_na_área_Médica_e_Farmacêutica-1E1E1E?style=for-the-badge" alt="Tradutora na área médica e farmacêutica">
 </p>
 
@@ -62,7 +62,7 @@
 ![CAT tools](https://img.shields.io/badge/CAT_tools-1E1E1E?style=for-the-badge)
 ![MTPE](https://img.shields.io/badge/MTPE-1E1E1E?style=for-the-badge)
 ![Terminologia médica](https://img.shields.io/badge/Terminologia_médica-1E1E1E?style=for-the-badge)
-![EN/ES <> PT-BR](https://img.shields.io/badge/EN%2FES_%3C%3E_PT--BR-007ACC?style=for-the-badge)
+![EN/ES <> PT-BR](https://img.shields.io/badge/EN%2FES_%3C%3E_PT--BR-8B1E3F?style=for-the-badge)
 
 ---
 
@@ -70,8 +70,8 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧺 Projeto Lavanderia</h3>
+   <td width="50%" valign="top" align="center">
+      <h3><a href="https://github.com/Cosmic-Bubble/projetolavanderia"> Projeto Lavanderia</a></h3>
       Sistema de previsão de demanda para uma lavanderia comunitária, desenvolvido em equipe.<br><br>
       <img src="https://img.shields.io/badge/HTML5-1E1E1E?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1E1E1E?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3">
@@ -79,31 +79,31 @@
       <img src="https://img.shields.io/badge/Chart.js-1E1E1E?style=flat-square&logo=chartdotjs&logoColor=FF6384" alt="Chart.js">
       <img src="https://img.shields.io/badge/Tailwind_CSS-1E1E1E?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
       <img src="https://img.shields.io/badge/Lucide-1E1E1E?style=flat-square&logo=lucide&logoColor=F56565" alt="Lucide">
-      <img src="https://img.shields.io/badge/Projeto_em_equipe-007ACC?style=flat-square" alt="Projeto em equipe"><br><br>
-      <a href="https://github.com/Cosmic-Bubble/projetolavanderia">Código</a>
+      <img src="https://img.shields.io/badge/Projeto_em_equipe-8B1E3F?style=flat-square" alt="Projeto em equipe"><br><br>
+      <a href="https://github.com/Cosmic-Bubble/projetolavanderia"><img src="https://img.shields.io/badge/Código-1E1E1E?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌙 Vagalume</h3>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="https://github.com/alesslatorre/somos-vagalume"> Vagalume</a></h3>
       Aplicação web que ajuda mulheres cis e trans a escolher trajetos a pé mais seguros, reunindo iluminação pública, pontos de apoio e avaliações colaborativas.<br><br>
       <img src="https://img.shields.io/badge/React-1E1E1E?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/Vite-1E1E1E?style=flat-square&logo=vite&logoColor=9CDCFE" alt="Vite">
       <img src="https://img.shields.io/badge/Leaflet-1E1E1E?style=flat-square&logo=leaflet&logoColor=4EC9B0" alt="Leaflet">
-      <img src="https://img.shields.io/badge/Projeto_em_equipe-007ACC?style=flat-square" alt="Projeto em equipe"><br><br>
-      <a href="https://github.com/alesslatorre/somos-vagalume">Código</a> · <a href="https://somosvagalume.vercel.app/">Acessar</a>
+      <img src="https://img.shields.io/badge/Projeto_em_equipe-8B1E3F?style=flat-square" alt="Projeto em equipe"><br><br>
+      <a href="https://github.com/alesslatorre/somos-vagalume"><img src="https://img.shields.io/badge/Código-1E1E1E?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a> <a href="https://somosvagalume.vercel.app/"><img src="https://img.shields.io/badge/Acessar-8B1E3F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar"></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Análise Exploratória — Livraria Expressão Popular</h3>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="https://www.canva.com/design/DAHbd3j3m_Y/t02Cf7r6DZzTGqgjmc31cA/view#1"> Livraria Expressão Popular</a></h3>
       Análise exploratória de dados feita em equipe para a livraria Expressão Popular, com limpeza dos dados no Power Query e gráficos no Excel. A análise apontou caminhos para atrair novos leitores do bairro (redes sociais, eventos e rodas de conversa) e propôs indicadores para medir o resultado, como primeiras visitas e canal de divulgação.<br><br>
       <img src="https://img.shields.io/badge/Excel-1E1E1E?style=flat-square&logo=microsoftexcel&logoColor=4EC9B0" alt="Excel">
       <img src="https://img.shields.io/badge/Power_Query-1E1E1E?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power Query">
       <img src="https://img.shields.io/badge/Análise_de_dados-1E1E1E?style=flat-square" alt="Análise de dados">
-      <img src="https://img.shields.io/badge/Projeto_em_equipe-007ACC?style=flat-square" alt="Projeto em equipe"><br><br>
-      <a href="https://www.canva.com/design/DAHbd3j3m_Y/t02Cf7r6DZzTGqgjmc31cA/view#54](https://www.canva.com/design/DAHbd3j3m_Y/t02Cf7r6DZzTGqgjmc31cA/view#1">Ver projeto</a>
+      <img src="https://img.shields.io/badge/Projeto_em_equipe-8B1E3F?style=flat-square" alt="Projeto em equipe"><br><br>
+      <a href="https://www.canva.com/design/DAHbd3j3m_Y/t02Cf7r6DZzTGqgjmc31cA/view#1"><img src="https://img.shields.io/badge/Ver_projeto-1E1E1E?style=for-the-badge&logo=microsoftexcel&logoColor=4EC9B0" alt="Ver projeto"></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚧 Em breve</h3>
+    <td width="50%" valign="top" align="center">
+      <h3> Em breve</h3>
 Novo projeto de dados em andamento. Fique de olho!<br><br>
       <img src="https://img.shields.io/badge/in_progress-1E1E1E?style=flat-square&logo=python&logoColor=FFD43B" alt="Em andamento">
     </td>
