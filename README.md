@@ -1,6 +1,7 @@
 <!-- Banner: suba o PNG do seu banner do LinkedIn neste repositório com o nome banner.png -->
 <p align="center">
-  <img width="3168" height="792" alt="banner" src="https://github.com/user-attachments/assets/30f676a1-e044-42b9-a7ca-4873bf2b3186" />
+ <img width="3168" height="792" alt="banner" src="https://github.com/user-attachments/assets/e0cac1e4-22c3-46a0-a6e8-d5d480d15e17" />
+
 </p>
 
 <h1 align="center">Alessandra La Torre</h1>
